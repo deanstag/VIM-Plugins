@@ -1,0 +1,16 @@
+A BASIC VIM PLUGIN FOR UNCOMMENTING AND COMMENTING VIM BLOCKS
+
+Pcomment() comments the selected lines
+Puncomment() uncomments the selected lines
+Pbuncomment() uncomments a whole block. 
+
+mappings defined for these are
+leader-/
+leader-?
+leader-{
+
+TODO , COMBINING toggle effect for block.
+
+--mikhail
+
+
